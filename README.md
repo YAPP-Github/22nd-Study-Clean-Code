@@ -4,22 +4,22 @@
   <table style="font-weight: bold">
       <tr>
           <td align="center">
-              <a href="https://github.com/rocher71">                 
+              <a href="https://github.com/SimJunSik">                 
                   <img alt="심준식" src="https://avatars.githubusercontent.com/SimJunSik" width="80" />            
               </a>
           </td>
           <td align="center">
-              <a href="https://github.com/ojj1123">                 
+              <a href="https://github.com/useonglee">                 
                   <img alt="이우성" src="https://avatars.githubusercontent.com/useonglee" width="80" />            
               </a>
           </td>
           <td align="center">
-              <a href="https://github.com/SimJunSik">                 
+              <a href="https://github.com/hayoiii">                 
                   <img alt="정하영" src="https://avatars.githubusercontent.com/hayoiii" width="80" />            
               </a>
           </td>
           <td align="center">
-              <a href="https://github.com/elbica">                 
+              <a href="https://github.com/sooyoungh">                 
                   <img alt="황수영" src="https://avatars.githubusercontent.com/sooyoungh" width="80" />            
               </a>
           </td>
